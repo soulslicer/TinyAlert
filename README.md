@@ -13,7 +13,7 @@ It automatically moves and resizes with your form, and expands to match the text
 3. Change the namespace of both files to match your project
 4. Set it up as follows (Similar to example code)
 
-``` 
+``` C#
 //Pass your Form inside and set the fade timing
 private void Form1_Load(object sender, EventArgs e)
 {
